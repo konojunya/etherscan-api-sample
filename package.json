@@ -1,0 +1,15 @@
+{
+  "name": "etherscan-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/konojunya/etherscan-api.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
